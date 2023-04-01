@@ -345,8 +345,9 @@ color: #7f8082;
   }
   
   @media (max-width: 600px) {
-
-    
+   .input-icons{ padding: 10px 40px 40px 12px;
+                background-color: #df1919;
+   }
   }
   
   @media (max-width: 300px) {
